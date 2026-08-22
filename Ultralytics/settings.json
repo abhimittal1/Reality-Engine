@@ -1,0 +1,20 @@
+{
+  "settings_version": "0.0.7",
+  "datasets_dir": "/Users/abhishek/Documents/Coding/Personal Projects/Reality-Engine/datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "152585540ca96e1941025db83447bafa73aba6c623ad3a92c066e6a2801a31c9",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

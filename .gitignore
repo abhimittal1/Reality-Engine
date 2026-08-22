@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Downloaded Models
+assets/models/*.task
+assets/models/*.tflite
+assets/models/*.pt
+
+# OS & IDE
+.DS_Store
+.vscode/
+.cursor/
+.idea/
+*.swp
